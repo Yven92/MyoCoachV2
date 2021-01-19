@@ -1,7 +1,6 @@
 # MyoCoachV2
 
 ![myocoach](myocoach.png)
-
 ---
 This depositery contains the documentation for a possible second version of the first **MyoCoach** release that you can find at the following adress : https://github.com/orthopus/01-myocoach .
 
