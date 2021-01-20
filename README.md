@@ -12,7 +12,7 @@ We give more details about how to get the best experiences with the **Myo Coach*
 
 ## D.I.Y
 
-You can design the MyoCoach for less than **30€**. More details in the [COSTS](COSTS.md) file.
+You can design the MyoCoach for less than **70€**. More details in the [COSTS](COSTS.md) file.
 
 Follow this steps to make your own **Myo Coach**
 
