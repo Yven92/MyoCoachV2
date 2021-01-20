@@ -1,6 +1,6 @@
 # MyoCoachV2
 
-![myocoach](myocoach.png)
+![myocoach](./assets/myocoach.png)
 
 
 ---
