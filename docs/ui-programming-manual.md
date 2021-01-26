@@ -52,3 +52,12 @@ Password: ChangeMe
 
 To launch the application, open your browser and type the IP address. You will reach the page where you can tune your hotspot and add funcitonnalities.
 
+**:five: Automatic launch of the app**
+
+The hotpsot will be automatically launch after the boot of the Raspberry but the application will not start alone. To do so, modify this file : 
+````
+sudo nano /etc/profile
+````
+Add this line at the end of the file : ```python your_path/app.py```. If you need to know the path where you stored the application file, go to the right directoryr and type : ```pwd```. You will obtain the complete path.
+Finally, change your boot options, in Desktop/ CLI and select Console Autologin. Reboot you raspberry.
+
