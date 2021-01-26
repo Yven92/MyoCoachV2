@@ -39,7 +39,7 @@ curl -sL https://install.raspap.com | bash
 ```
 If you want to do a manual installation follow the link here: https://docs.raspap.com/manual/.
 
-**:Four: Launch the RaspAP application**
+**:four: Launch the RaspAP application**
 
 After the reboot at the end of the installation the wireless network will be configured as an access point as follows:
 
