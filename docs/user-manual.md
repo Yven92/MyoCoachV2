@@ -97,7 +97,7 @@ This test protocol allows the placement of two electrodes which are useful for t
 
 ![muscle_flechisseur_et_extenseur](./assets/muscle_flechisseur_et_extenseur.png)
 
-* :one: Equip an electrode with a pin header strip to make an adapter with the MyoCoach connector system (see the electrode connector section in the [manufacturing-manual](./manufacturing-manual.md)).
+* :one: Equip an electrode with a pin header strip to make an adapter with the MyoCoach connector system.
 
 ![adpatateur_electrode](./assets/adpatateur_electrode.png)
 
@@ -145,7 +145,7 @@ An EMG electrode must be placed along and in the middle of the muscle fibre.
 
 ### Connect Electrode to the box :
 
-:one: Assemble the two electrodes on the armband. The armband offers several degrees of freedom to allow the electrodes to be positioned optimally on the user's arm. (See the section ArmBand: Adjustments and positioning in the [manufacturing-manual](./manufacturing-manual.md)).
+:one: Assemble the two electrodes on the armband. The armband offers several degrees of freedom to allow the electrodes to be positioned optimally on the user's arm. 
 
 ![vue_brassard](./assets/vue_brassard.png)
 
