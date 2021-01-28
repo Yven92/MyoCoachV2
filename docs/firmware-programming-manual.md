@@ -27,3 +27,6 @@ We use the online programming tool developed by Arduino. You can find help and i
 * :five: Transfer the MyoCoach programme to the Arduino card
 
 * :six: After transferring the program to the arduino card you can remove it from the usb port that was connected to the computer and put in a usb serial port of the raspberry pi card
+
+
+
