@@ -54,33 +54,32 @@ Here is a description of the MyoCoach interface.
 
 ![general_view](./assets/recording2.gif)
 
-### Menu : Connection
-This Menu allows you to establish the connection with the Arduino board in order to start the acquisition of EMG signals to the application.
+### Menu : Vizualisation
+This Menu allows you to visualize in real time the acquisition of EMG signals that will be use for the application.
 
-* :one: Click on the **Connection** Menu, the card name and its port should be displayed.
+* :one: Click on the **Vizualisation** Menu, both signals will be directly displayed.
 
-![connection-arduino](./assets/connection-arduino.png)
-* :two: Click on the name of the Arduino board.
-* :three: If the connection is effective, the information will be present in the **status bar** at the bottom of the application.
+![visualisation](./assets/viz.png)
+* :two: You can visualize in full screen each graph.
 
-![usb-ok](./assets/usb-ok.png)
-![usb-ko](./assets/usb-ko.png)
+> :bulb: If during the use of the Vizualisation Menu, you encounter a problem (absence of EMG signals, blocking of the menus...), remember to reload the web page or go back to the main menu and do the previous steps again.
 
-> :bulb: If during the use of the MyoCoach application, you encounter a problem (absence of EMG signals, blocking of the menus...), remember to check in the status bar if the connection with the Arduino board is still active.
+### Menu : Gaming
+![gaming_page](./assets/recording.gif)
+In this menu you can choose between the different games.
+* **Game 1**: You reach the Snake game.
+![snake](./assets/Capture1.png)
+* **Game 2**: You reach the Flappy Bird game.
+![Flappy](./assets/Capture3.png)
 
-### Menu : Widget
-In this menu you can choose between the different Widgets.
-* **Signal**: Displays the EMG signals in raw form.
-* **Game**: lists the games available in the MyoCoach.
+As you can see, the score is displayed as two gauges that represent the force deployed by the user. The threshold can be set when you reach the game page, it will determine the minimal force above which the game will react (eg: the bird going up or down, the snake going left or right).
 
-![menu_widget](./assets/menu_widget.png)
 
-### Menu: Help
-In this menu you will find two submenus
-* **About**: gives information about the version of the code, a link to the ORTHOPUS website and a reminder of the Open Source license of the code.
-* **User Manual**: is a shortcut to this user manual page. It's Magic! :zap:
+### Menu: About Us
+In this menu you will find some information about our team and the background of the project.
 
-![menu_help](./assets/menu_help.png)
+### Menu : GitHub
+This menu is a bridge to the GitHub webpage of the project.
 
 ### Sliders
 Whatever the choice of widget, the sliders are always visible on the right side of the application. They allow you to see and evaluate EMG signals in real time.
