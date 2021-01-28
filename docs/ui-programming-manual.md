@@ -66,3 +66,5 @@ sudo nano /etc/profile
 Add this line at the end of the file : ```python your_path/app.py```. If you need to know the path where you stored the application file, go to the right directoryr and type : ```pwd```. You will obtain the complete path.
 Finally, change your boot options, in Desktop/ CLI and select Console Autologin. Reboot you raspberry.
 
+**:six: Launch of the app**
+Just from a pc, a smartphone or a tablet  connects on the wifi created by the raspberry pi and type this on a navigator: **10.3.141.1:5000 
