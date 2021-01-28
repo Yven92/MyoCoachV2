@@ -48,7 +48,7 @@ To switch off the MyoCoach, simply disconnect the USB plug from the computer.
 > :warning: The use of a battery charger on the laptop will in most cases interfere with the operation of the electrodes, i.e. the value without any electrode activity is not zero. It is recommended to disconnect the mains power supply during myoelectric data recording and to run the laptop on battery power.
 
 ## Application overview
-To launch the MyoCoach application, refer to the [ui-programming-manual](./ui-programming-manual.md) in the section : **launch the application**
+To launch the MyoCoach application, refer to the [ui-programming-manual](./ui-programming-manual.md).
 
 Here is a description of the MyoCoach interface.
 
