@@ -59,7 +59,7 @@ This Menu allows you to visualize in real time the acquisition of EMG signals th
 
 * :one: Click on the **Vizualisation** Menu, both signals will be directly displayed.
 
-![visualisation](./assets/viz.png)
+![visualisation](./assets/viz.PNG)
 * :two: You can visualize in full screen each graph.
 
 > :bulb: If during the use of the Vizualisation Menu, you encounter a problem (absence of EMG signals, blocking of the menus...), remember to reload the web page or go back to the main menu and do the previous steps again.
@@ -68,9 +68,9 @@ This Menu allows you to visualize in real time the acquisition of EMG signals th
 ![gaming_page](./assets/recording.gif)
 In this menu you can choose between the different games.
 * **Game 1**: You reach the Snake game.
-![snake](./assets/Capture1.png)
+![snake](./assets/Capture1.PNG)
 * **Game 2**: You reach the Flappy Bird game.
-![Flappy](./assets/Capture3.png)
+![Flappy](./assets/Capture3.PNG)
 
 As you can see, the score is displayed as two gauges that represent the force deployed by the user. The threshold can be set when you reach the game page, it will determine the minimal force above which the game will react (eg: the bird going up or down, the snake going left or right).
 
