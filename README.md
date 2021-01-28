@@ -18,7 +18,7 @@ Follow this steps to make your own **Myo Coach**
 
 **:one: Download the src**
 
-Dowload the source on the webpage https://github.com/Yven92/MyoCoachV2.
+Download the source on the webpage https://github.com/Yven92/MyoCoachV2/tree/codes.
 
 **:two: Flash the Arduino Board**
 
