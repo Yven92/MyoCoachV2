@@ -7,9 +7,9 @@ The Arduino board fulfils two roles:
 
 ![arduino_uno](./assets/arduino_uno.jpg)
 
-The source code of the Arduino program is available in [src/software/firmware](../src/software/firmware)
+The source code of the Arduino program **myocoach.ino** is available  [here](https://github.com/Yven92/MyoCoachV2/tree/codes/src)
 
-At Orthopus, we use the online programming tool developed by Arduino. You can find help and information about this tool by following this link:
+We use the online programming tool developed by Arduino. You can find help and information about this tool by following this link:
 [Getting Started with Arduino Web Editor](https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a?f=1)
 
 ## Programmation
@@ -23,4 +23,7 @@ At Orthopus, we use the online programming tool developed by Arduino. You can fi
 * :three: Importing the **myocoach.ino** file into the online code editor
 
 * :four: Connecting the Arduino card to the computer
+
 * :five: Transfer the MyoCoach programme to the Arduino card
+
+* :six: After transferring the program to the arduino card you can remove it from the usb port that was connected to the computer and put in a usb serial port of the raspberry pi card
