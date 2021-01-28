@@ -67,8 +67,6 @@ This Menu allows you to visualize in real time the acquisition of EMG signals th
 ### Menu : Gaming
 ![gaming_page](./assets/recording.gif)
 In this menu you can choose between the different games.
-As you can see, the score is displayed as two gauges that represent the force deployed by the user. The threshold can be set when you reach the game page, it will determine the minimal force above which the game will react (eg: the bird going up or down, the snake going left or right).
-The game play has been modified to better correspond to the use of EMG sensors but the graphics of the original game have been kept! :fire:
 
 * **Game 1**: You reach the Snake game.
 ![snake](./assets/Capture1.PNG)
@@ -86,6 +84,8 @@ The game play has been modified to better correspond to the use of EMG sensors b
 * A pulse from the **EMG 1** sensor that exceeds the threshold moves the bird **downwards**.
 * The displacement of the bird is relative to the power of the pulse.
 
+As you can see, the score is displayed as two gauges that represent the force deployed by the user. The threshold can be set when you reach the game page, it will determine the minimal force above which the game will react (eg: the bird going up or down, the snake going left or right).
+The game play has been modified to better correspond to the use of EMG sensors but the graphics of the original game have been kept! :fire:
 
 ### Menu: About Us
 In this menu you will find some information about our team and the background of the project.
