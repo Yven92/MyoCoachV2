@@ -69,10 +69,21 @@ This Menu allows you to visualize in real time the acquisition of EMG signals th
 In this menu you can choose between the different games.
 * **Game 1**: You reach the Snake game.
 ![snake](./assets/Capture1.PNG)
-* **Game 2**: You reach the Flappy Bird game.
+
+* A pulse from the **EMG 0** sensor that exceeds the threshold moves the snake **right**.
+* A pulse from the **EMG 1** sensor that exceeds the threshold moves the snake **left**.
+* The displacement of the snake is relative to the power of the pulse.
+
+* **Game 2**: You reach the Flappy Bird game which is more difficult than the snake game
 ![Flappy](./assets/Capture3.PNG)
 
 As you can see, the score is displayed as two gauges that represent the force deployed by the user. The threshold can be set when you reach the game page, it will determine the minimal force above which the game will react (eg: the bird going up or down, the snake going left or right).
+The game play has been modified to better correspond to the use of EMG sensors but the graphics of the original game have been kept! :fire:
+
+* The bird does not fall. It maintains its height when the user does not control it
+* A pulse from the **EMG 0** sensor that exceeds the threshold moves the bird **upwards**.
+* A pulse from the **EMG 1** sensor that exceeds the threshold moves the bird **downwards**.
+* The displacement of the bird is relative to the power of the pulse.
 
 
 ### Menu: About Us
