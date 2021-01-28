@@ -52,7 +52,7 @@ To launch the MyoCoach application, refer to the [ui-programming-manual](./ui-pr
 
 Here is a description of the MyoCoach interface.
 
-![general_view](./assets/general_view.png)
+![general_view](./assets/recording2.gif)
 
 ### Menu : Connection
 This Menu allows you to establish the connection with the Arduino board in order to start the acquisition of EMG signals to the application.
