@@ -67,4 +67,4 @@ Add this line at the end of the file : ```python your_path/app.py```. If you nee
 Finally, change your boot options, in Desktop/ CLI and select Console Autologin. Reboot you raspberry.
 
 **:six: Launch of the app**
-Just from a pc, a smartphone or a tablet  connects on the wifi created by the raspberry pi and type this on a navigator: **10.3.141.1:5000 
+Just from a pc, a smartphone or a tablet  connects on the wifi created by the raspberry pi and type this on a navigator: **10.3.141.1:5000**
