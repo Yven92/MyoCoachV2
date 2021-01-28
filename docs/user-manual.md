@@ -78,11 +78,8 @@ The game play has been modified to better correspond to the use of EMG sensors b
 * The displacement of the snake is relative to the power of the pulse.
 
 
-
 * **Game 2**: You reach the Flappy Bird game which is more difficult than the snake game
 ![Flappy](./assets/Capture3.PNG)
-
-
 
 * The bird does not fall. It maintains its height when the user does not control it
 * A pulse from the **EMG 0** sensor that exceeds the threshold moves the bird **upwards**.
