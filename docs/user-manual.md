@@ -81,14 +81,6 @@ In this menu you will find some information about our team and the background of
 ### Menu : GitHub
 This menu is a bridge to the GitHub webpage of the project.
 
-### Sliders
-Whatever the choice of widget, the sliders are always visible on the right side of the application. They allow you to see and evaluate EMG signals in real time.
-
-* The signal from the sensor connected to  **EMG 0** input of the box is the slider on the **left**. It changes from [0 to 100%] from **bottom to top** because this sensor, positioned **outside** the arm, controls the **closure** of the prosthesis.
-* The signal from the sensor connected to the **EMG 1** input of the box is the **right** slider. It changes from [0 to 100%] **up and down** as the sensor on the inside of the arm controls the **opening** of the prosthesis.
-
-![sliders](./assets/sliders.png)
-
 ## Electrodes placement protocol
 The primary function of the MyoCoach is to optimise electrode placement and find the right gain setting.
 
@@ -119,11 +111,9 @@ To access the gain adjustment potentiometer of the Ottobock 13E202 sensor, it is
 
 ![connecteur_boitier](./assets/connecteur_boitier.png)
 
-* :four: Connect the MyoCoach box to the computer using the USB cable supplied with the Arduino card.
+* :four: Connect the MyoCoach box to power supply using a power cable connected to an electrical outlet.
 
-![connexion_boitier_ordi](./assets/connexion_boitier_ordi.png)
-
-* :five: Launch the MyoCoach application on the computer, connect the application to the Arduino card and choose the Signal Widget.
+* :five: Launch the MyoCoach application by scanning the flashcode, or enter the IP address of the hotspot with its port. Go to the Vizualisation Menu.
 * :six: Hold the electrode on the user's muscle.
 
 ![maintien_electrode](./assets/maintien_electrode.png)
@@ -168,7 +158,7 @@ An EMG electrode must be placed along and in the middle of the muscle fibre.
 Once the electrodes have been connected and the ArmBand adjusted, the user is ready to practice using EMG sensors! :muscle:
 
 ## Using the application
-This v1.0 of the application includes the minimum functionality to correctly place EMG electrodes on a user with the **Widget:Signal** and to train and improve the user's muscle coordination with the game in the **Widget:FlappyBird**.
+This v2 of the application includes the minimum functionality to correctly place EMG electrodes on a user with the **Menu:Vizualisation** and to train and improve the user's muscle coordination with the games in the **Menu:Gaming**.
 
 ### Widget: Signal
 This widget allows the visualisation of EMG signals on a scale from 0 to 100%. It is mainly used in the **electrode placement protocol**.
