@@ -7,7 +7,9 @@ For further use, you can download [VNC Viewer](https://www.realvnc.com/fr/connec
 
 ## Installation
 
-Tested under MacOS and Linux.
+The raspberry card needs a **SD card flashed by an operating system**. Several operating systems are available but for this project it will be necessary to use the **raspberry pi OS** ! And you can  take the aspberry pi OS  with the desktop option if your are not familiar to linux sytem. it will be preferable to use a class 10 SD card for more speed and fluidity of the operating system of the raspberry card.
+The photo below is a raspberry pi 4 model B but you can use a lower model, either raspberry pi 3 model B or B+ will do ...
+A powerful tutorial  is available [here](https://www.raspberrypi.org/documentation/installation/installing-images/)
 
 **:one: Installing the dependencies**
 
@@ -19,7 +21,10 @@ Install `virtualenv` :
 ```
 pip install virtualenv
 ```
-
+Install `flask` :
+```
+sudo apt-get install python3-flask
+```
 **:two: Update the system**
 
 It is necessary to have the latest version of Raspbian to go through the following steps :
