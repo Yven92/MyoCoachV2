@@ -74,6 +74,8 @@ In this menu you can choose between the different games.
 * A pulse from the **EMG 1** sensor that exceeds the threshold moves the snake **left**.
 * The displacement of the snake is relative to the power of the pulse.
 
+
+
 * **Game 2**: You reach the Flappy Bird game which is more difficult than the snake game
 ![Flappy](./assets/Capture3.PNG)
 
@@ -168,28 +170,3 @@ An EMG electrode must be placed along and in the middle of the muscle fibre.
 
 Once the electrodes have been connected and the ArmBand adjusted, the user is ready to practice using EMG sensors! :muscle:
 
-## Using the application
-This v2 of the application includes the minimum functionality to correctly place EMG electrodes on a user with the **Menu:Vizualisation** and to train and improve the user's muscle coordination with the games in the **Menu:Gaming**.
-
-### Widget: Signal
-This widget allows the visualisation of EMG signals on a scale from 0 to 100%. It is mainly used in the **electrode placement protocol**.
-
-![screenshot_signal](./assets/screenshot_signal.png)
-
-### Widget: FlappyBird
-This widget allows the user to improve his muscular coordination in a fun way. The game is inspired by the Open Source game :link:[Flappy Bird](https://github.com/sourabhv/FlapPyBird).
-
-![screenshot_flappybird](./assets/screenshot_flappybird.png)
-
-The game play has been modified to better correspond to the use of EMG sensors but the graphics of the original game have been kept! :fire:
-
-* The bird does not fall. It maintains its height when the user does not control it
-* A pulse from the **EMG 0** sensor moves the bird **upwards**.
-* A pulse from the **EMG 1** sensor moves the bird **downwards**.
-* The displacement of the bird is relative to the power of the pulse.
-* The scrolling speed of the stage increases every ten points.
-* Use the computer **keyboard Space** ⌨️ to start or restart the game.
-
-![record_bionico](./assets/record_bionico.png)
-
-Record by Bionico :boom:
