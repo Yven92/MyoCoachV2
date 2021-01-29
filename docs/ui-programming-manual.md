@@ -68,4 +68,4 @@ Finally, change your boot options, in Desktop/ CLI and select Console Autologin.
 
 **:six: Launch of the app**
 
-Just from a pc, a smartphone or a tablet  connects on the wifi created by the raspberry pi and type this on a navigator: **10.3.141.1:5000**
+Just from a pc, a smartphone or a tablet  connects on the wifi created by the raspberry pi and type this on a navigator: **10.3.141.1:5000**. We had the idea to stick a flashcode generated freely online with this address on the MyoCoach box, in order to launch the application more easily.
